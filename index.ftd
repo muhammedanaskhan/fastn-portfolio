@@ -1,72 +1,40 @@
-# Anas's Portfolio
+-- my-ds.page: Welcome to doc-site
 
-Welcome to my portfolio! I am a front-end developer passionate about creating intuitive and engaging user experiences. This portfolio showcases my skills, projects, and contributions. Feel free to explore and reach out to me for any inquiries or collaboration opportunities.
 
-## Table of Contents
+⚡️ `doc-site` will help you create a beautiful documentation site in no time.
 
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Contributions](#contributions)
-- [Contact](#contact)
+It provides out-of-the-box documentation features that can be used to create any
+kind of site(personal website, blog, etc).
 
-## About Me
+[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
+documentation.
 
-I am Anas, a front-end developer with a strong focus on crafting clean and modern user interfaces. With a background in web development and a keen eye for design, I strive to create visually appealing and user-friendly websites. I am constantly learning and exploring new technologies to enhance my skills and stay up-to-date with industry trends.
+-- ds.h3: 🚀 Fast Track 
 
-## Skills
+Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
+project in just 5 minutes!
 
-Here are some of the key skills and technologies that I specialize in:
+-- ds.h3: 🌟 Whats next?
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Responsive Web Design
-- UI/UX Design
-- Version Control (Git)
-- Adobe Photoshop
+Create your first page. 
+[Click here to know more](https://fastn-community.github.io/doc-site/page/).
 
-## Projects
+-- ds.h3: 👀 Want to learn more?
 
-Check out some of my notable projects:
+Feel free to check [our expander course](https://fastn.com/expander/) or jump
+into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
 
-### Project 1: Project Name
 
-- Description: Briefly describe the project, including its purpose, features, and technologies used.
-- Repository: [Link to Repository](https://github.com/yourusername/project1)
-- Live Demo: [Link to Live Demo](https://yourprojectdemo.com)
+-- ds.h3: 🎯 Used by?
 
-### Project 2: Project Name
+Our all documentation sites uses this `doc-site` theme.
 
-- Description: Briefly describe the project, including its purpose, features, and technologies used.
-- Repository: [Link to Repository](https://github.com/yourusername/project2)
-- Live Demo: [Link to Live Demo](https://yourprojectdemo.com)
+- [fastn.com](https://fastn.com/home/)
+- [FifthTry.com](https://www.fifthtry.com/)
 
-## Contributions
+-- ds.h2: Learn fastn and become a pro?
 
-I have also contributed to open-source projects and collaborated with others. Here are a few examples:
+You are one click away, just check [our documentation](https://fastn.com/) and 
+dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
 
-### Project 1: Open-Source Project
-
-- Repository: [Link to Repository](https://github.com/opensourceproject)
-- Description: Describe your contributions, such as bug fixes, feature enhancements, or documentation improvements.
-
-### Project 2: Collaborative Project
-
-- Repository: [Link to Repository](https://github.com/collaborativeproject)
-- Description: Describe your role and contributions in the project, such as development, design, or testing.
-
-## Contact
-
-Feel free to reach out to me for any inquiries, job opportunities, or collaboration. You can connect with me through the following channels:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Website: [YourPortfolioWebsite.com](https://yourportfoliowebsite.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-
-I am excited to connect with you and discuss potential projects or opportunities. Let's create something amazing together!
-
----
-
-Feel free to customize this template according to your needs. Add sections or modify the existing ones to best represent your skills, projects, and contributions. Make sure to keep the readme concise, clear, and visually appealing. Good luck with your portfolio, Anas!
+-- end: my-ds.page
